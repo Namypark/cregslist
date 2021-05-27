@@ -7,4 +7,4 @@ Building a CLONE using Django
 
 * <b> The Back-End is created using django<b>
 
-<h4>Please if you don't get a result to a serach request then you might need to connect to a VPN as craigstlist might be blocking your IP </h4>
+<h4> if you don't get a search result you might need to connect to a vpn as craigslist might be blocking your IP</h4>
